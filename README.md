@@ -3,4 +3,4 @@ A test-bed for the [Attainable Utility Preservation (AUP)](https://arxiv.org/abs
 
 With this work, we improve AUP and introduce vAUP, a modular extension to AUP with different variations, which are applicable to environments with a no-op action and action-driven environments alike. This method allows to choose between variants based on the environments to solve the safety property of avoiding side effects and to optimize an agent for a correct reward function implicitly. We evaluated all introduced variants on the same AI safety griworlds and show that this approach induces safe, conservative and effective behavior.
 
-Please see the corresponding [slides](slides.pdf) for my talk during SAINT 2023 and the [bachelor's thesis](thesis.pdf) with all details and results.
+Please see the corresponding [slides](slides.pdf) for my talk during YTIC 2023 and the [bachelor's thesis](thesis.pdf) with all details and results.
